@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealmMongoDB</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="server_clint_id">WEB CLINT ID</string>
+</resources>
